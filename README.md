@@ -23,7 +23,7 @@ This is a project under the course <b>CS-257</b>, we created this application un
 
 
 ## Links
-Visit us: <a href="https://iitilms.herokuapp.com/">Visit Us!!</a>  
+Let's have a visit on it: <a href="https://iitilms.herokuapp.com/">Visit Us!!</a>  
 
 ## Tech Stack
 
